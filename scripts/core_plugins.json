@@ -30,7 +30,7 @@
     "description": "A plugin for setting Neovim LSP with JSON or YAML files"
   },
   {
-    "name": "<a href='https://github.com/jose-elias-alvarez/null-ls.nvim'>jose-elias-alvarez/null-ls.nvim</a>",
+    "name": "<a href='https://github.com/nvimtools/none-ls.nvim/'>nvimtools/none-ls.nvim</a>",
     "enabled": true,
     "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua."
   },
@@ -200,7 +200,7 @@
     "description": "A file explorer tree for neovim written in lua"
   },
   {
-    "name": "<a href='https://github.com/kyazdani42/nvim-web-devicons'>kyazdani42/nvim-web-devicons</a>",
+    "name": "<a href='https://github.com/nvim-tree/nvim-web-devicons'>nvim-tree/nvim-web-devicons</a>",
     "enabled": true,
     "description": "lua `fork` of vim-web-devicons for neovim"
   }
